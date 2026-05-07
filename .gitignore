@@ -1,7 +1,13 @@
-# Python cache
+# Python
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+*.env
+
+# Virtual environment
+venv/
+.venv/
 
 # Project generated files
 logs/
@@ -15,3 +21,11 @@ plantilla_solicitudes.xlsx
 
 # Excel temp files
 ~$*.xlsx
+
+# VS Code
+.vscode/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
