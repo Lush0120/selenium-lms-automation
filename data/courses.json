@@ -1,0 +1,782 @@
+{
+  "courses": [
+    {
+      "course_id": "585",
+      "name": "Prueba Diagnóstica Desarrollador RPA",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración por nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        },
+        {
+          "name": "Supervisión en línea",
+          "value": "Si"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:28.857732",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=585",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=585",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=585"
+    },
+    {
+      "course_id": "356",
+      "name": "Prueba Diagnóstica de Performance",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración por nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:30.484833",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=356",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=356",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=356"
+    },
+    {
+      "course_id": "371",
+      "name": "Prueba Diagnóstica React Native",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración por nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:33.507309",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=371",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=371",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=371"
+    },
+    {
+      "course_id": "194",
+      "name": "Prueba Diagnóstica Automatización",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración por nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "lenguaje",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:34.933131",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=194",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=194",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=194"
+    },
+    {
+      "course_id": "235",
+      "name": "Prueba Diagnóstica Analista Funcional",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración por cuestionario",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Lenguaje",
+          "value": "Español"
+        },
+        {
+          "name": "Monitorización",
+          "value": "Si"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:38.210438",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=235",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=235",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=235"
+    },
+    {
+      "course_id": "271",
+      "name": "Prueba Diagnóstica WebServices",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Basico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración de nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:36.567589",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=271",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=271",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=271"
+    },
+    {
+      "course_id": "269",
+      "name": "Prueba Diagnóstica SQL y Bases de Datos",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración por nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:39.765658",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=269",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=269",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=269"
+    },
+    {
+      "course_id": "325",
+      "name": "Prueba Diagnóstica de Generalidades de Desarrollo de Software",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duracion de nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:43.560264",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=325",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=325",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=325"
+    },
+    {
+      "course_id": "326",
+      "name": "Pruebas Diagnósticas en Lenguaje Java",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración Nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:41.507011",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=326",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=326",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=326"
+    },
+    {
+      "course_id": "324",
+      "name": "Prueba Diagnóstica en ASP.NET",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración por nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:45.234697",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=324",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=324",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=324"
+    },
+    {
+      "course_id": "336",
+      "name": "Prueba Diagnóstica Python",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 preguntas"
+        },
+        {
+          "name": "Duración por nivel",
+          "value": "15 minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:46.717969",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=336",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=336",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=336"
+    },
+    {
+      "course_id": "346",
+      "name": "Prueba Diagnóstica Ingeniero de BI",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración por nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:48.202871",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=346",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=346",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=346"
+    },
+    {
+      "course_id": "344",
+      "name": "Prueba diagnostica Scrum master",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración por nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:49.554405",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=344",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=344",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=344"
+    },
+    {
+      "course_id": "467",
+      "name": "Prueba Diagnóstica DevOps",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración por nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:51.052621",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=467",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=467",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=467"
+    },
+    {
+      "course_id": "572",
+      "name": "Prueba Diagnóstica de Automatizador RPA",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración por nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:54.092395",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=572",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=572",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=572"
+    },
+    {
+      "course_id": "586",
+      "name": "Prueba Diagnóstica de Desarrollador Power Apps y Power Automate",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración por nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Lenguaje",
+          "value": "Español"
+        },
+        {
+          "name": "Monitorización",
+          "value": "Si"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:52.697414",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=586",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=586",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=586"
+    },
+    {
+      "course_id": "577",
+      "name": "Prueba Diagnóstica Funcional",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración por cuestionario",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Lenguaje",
+          "value": "Español"
+        },
+        {
+          "name": "Monitorización",
+          "value": "Sí"
+        }
+      ],
+      "updated_at": "2026-03-02T09:40:46.354287",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=577",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=577",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=577"
+    },
+    {
+      "course_id": "378",
+      "name": "Prueba Técnica de Modelo de Datos",
+      "category": "50",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel de la prueba",
+          "value": "Intermedio"
+        },
+        {
+          "name": "Duración de la prueba",
+          "value": "3 horas"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:57.487010",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=378",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=378",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=378"
+    },
+    {
+      "course_id": "403",
+      "name": "Prueba Técnica de Aprendices Desarrollo",
+      "category": "50",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel de la prueba",
+          "value": "Intermedio"
+        },
+        {
+          "name": "Duración de la prueba",
+          "value": "48 horas"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:58.733814",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=403",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=403",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=403"
+    },
+    {
+      "course_id": "456",
+      "name": "Prueba Técnica Automatizador QA",
+      "category": "50",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Plateamieto de la prueba",
+          "value": "1"
+        },
+        {
+          "name": "Entregables",
+          "value": "Sí"
+        },
+        {
+          "name": "Duración de la prueba",
+          "value": "5 horas"
+        },
+        {
+          "name": "Nivel de la prueba",
+          "value": "Intermedio"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:32:00.228301",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=456",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=456",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=456"
+    },
+    {
+      "course_id": "223",
+      "name": "Prueba Técnica de Desarrollo Q-Vision",
+      "category": "50",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Planteamiento de la prueba",
+          "value": "1"
+        },
+        {
+          "name": "Entregable",
+          "value": "1"
+        }
+      ],
+      "updated_at": "2026-03-16T12:32:01.235789",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=223",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=223",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=223"
+    },
+    {
+      "course_id": "315",
+      "name": "Prueba Técnica SQL + Data Warehouse",
+      "category": "50",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel de la prueba",
+          "value": "Intermedio"
+        },
+        {
+          "name": "Tipo de actividad",
+          "value": "Caso Práctico"
+        },
+        {
+          "name": "Evaluación",
+          "value": "Cuestionario"
+        },
+        {
+          "name": "Disponibilidad prueba",
+          "value": "24 horas"
+        }
+      ],
+      "updated_at": "2026-03-16T12:32:02.708032",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=315",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=315",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=315"
+    },
+    {
+      "course_id": "182",
+      "name": "Prueba Técnica de Habilidades y Conocimientos Funcionales",
+      "category": "50",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración Nivel",
+          "value": "30 Minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:32:03.978285",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=182",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=182",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=182"
+    },
+    {
+      "course_id": "370",
+      "name": "Prueba Técnica de Requerimientos",
+      "category": "50",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel de la prueba",
+          "value": "Intermedio"
+        },
+        {
+          "name": "Duración de la prueba",
+          "value": "4 horas"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:32:05.188293",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=370",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=370",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=370"
+    },
+    {
+      "course_id": "589",
+      "name": "Prueba Diagnóstica Líder Técnico De Desarrollo Para La Operación",
+      "category": "35",
+      "visible": true,
+      "characteristics": [
+        {
+          "name": "Nivel Básico",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Intermedio",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Nivel Avanzado",
+          "value": "10 Preguntas"
+        },
+        {
+          "name": "Duración por nivel",
+          "value": "15 Minutos"
+        },
+        {
+          "name": "Idioma",
+          "value": "Español"
+        }
+      ],
+      "updated_at": "2026-03-16T12:31:32.073035",
+      "quizzes": [],
+      "url_course": "https://campusvirtual.izyacademy.com/course/view.php?id=589",
+      "url_grades": "https://campusvirtual.izyacademy.com/grade/report/grader/index.php?id=589",
+      "url_enroll": "https://campusvirtual.izyacademy.com/enrol/manual/manage.php?enrolid=589"
+    }
+  ],
+  "last_sync": "2026-03-16T12:32:05.192189"
+}

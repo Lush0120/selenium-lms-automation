@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Project generated files
+logs/
+screenshots/
+output/
+data/courses.json
+
+# Sensitive files
+.env
+plantilla_solicitudes.xlsx
+
+# Excel temp files
+~$*.xlsx
